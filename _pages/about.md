@@ -14,6 +14,6 @@ My area of interest thus lies at the interface of mathematics and biology, speci
 
 
 Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+![Editing a markdown file for a talk](/images/University_of_Bristol_logo.png)
 
 
