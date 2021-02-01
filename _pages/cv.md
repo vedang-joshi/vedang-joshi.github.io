@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+View full CV [here](http://academicpages.github.io/files/cv-3.pdf)
+
 Education
 ======
 * MEng in Engineering Mathematics, University of Bristol, UK, 2022 (expected)
