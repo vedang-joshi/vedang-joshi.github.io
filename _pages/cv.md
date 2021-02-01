@@ -11,21 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MEng in Engineering Mathematics, University of Bristol, UK, 2022 (expected)
+* A-Levels in Mathematics, Further Mathematics, French and Physics, Royal Wootton Bassett Academy, UK, 2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2021: Research Assistant
+  * University of Cambridge, UK
+  * Spatially-explicit stochastic dynamic epidemiological simulations on Cassava Brown Streak Disease (Uganda), Wheat Stem Rust (Ethiopia), Banana Bunchy Top (Nigeria) and Citrus Huanglongbing (USA, Australia) epidemics
+  * Supervisor: [Professor Chris Gilligan](https://www.plantsci.cam.ac.uk/directory/gilligan-chris), [Dr. Renata Retkute](https://www.plantsci.cam.ac.uk/directory/retkute-renata) and [Dr. Richard Stutt](https://www.plantsci.cam.ac.uk/directory/stutt-richard)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2015: Research Assistant
+  * Imperial College London, UK
+  * Node-centralities in mitochondrial protein interaction networks for predicting gene essentiality
+  * Supervisor: [Professor Nick Jones](https://www.imperial.ac.uk/people/nick.jones) and [Dr. Florian Klimm](https://floklimm.github.io)
   
 Skills
 ======
@@ -36,16 +35,10 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+Publications (in preparation)
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
