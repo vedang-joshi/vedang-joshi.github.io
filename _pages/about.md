@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hi! I'm Vedang Joshi and this is my personal webpage."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a third year undergraduate at the [University of Bristol](https://www.bristol.ac.uk) studying for an integrated masters degree in Engineering Mathematics. I'm fortunate to have travelled the world extensively, and am originally from Pune, India, where I spent some my childhood, the rest I spent in the UK in Swindon. It was during my talks with a cousin of mine who's finishing her doctorate, who works in systems biology, that I realised the potential of mathematics in biology, and I was hooked! My area of interest thus lies at the interface of mathematics and biology, specifically to use network theory and other mathematical understanding such as non-linear dynamics to study complex systems, emergent phenomena with uses in comprehending animal behaviour. I've studied gene essentiality in mitochondrial protein interaction networks, and currently I'm interested in epidemiological dynamics. 
 
 A data-driven personal website
 ======
