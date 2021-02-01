@@ -8,4 +8,4 @@ date: 2020-01-01
 location: "Bristol, UK"
 ---
 
-[Advanced Mathematics Support Programme](https://amsp.org.uk): Tutoring Year 12 maths students preparing for STEP and MAT. Helping with online tutorials, marking papers and worksheets and giving written feedback on group mathematical modelling tasks.
+[EMAT10704 Discrete Mathematics 1](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa;jsessionid=DECB31EED17DD75A15C95F98C5F5CE56?ayrCode=21/22&unitCode=EMAT10704): Teaching includes number systems and arithmetic, logic and proof, sets, relations and functions. Includes graph theory, and the link between continuous and discrete mathematics. Mode of teaching split between online and face-to-face learning.
