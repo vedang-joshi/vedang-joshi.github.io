@@ -13,7 +13,12 @@ I am a third year undergraduate at the [University of Bristol](https://www.brist
 My area of interest thus lies at the interface of mathematics and biology, specifically to use network theory and other mathematical understanding such as non-linear dynamics to study complex systems, emergent phenomena with uses in comprehending animal behaviour. I've studied gene essentiality in mitochondrial protein interaction networks, and currently I'm interested in epidemiological dynamics. 
 
 
-Example: editing a markdown file for a talk
+
+
+
+
+
+
 ![Editing a markdown file for a talk](/images/University_of_Bristol_logo.png)
 
 
