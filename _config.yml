@@ -83,11 +83,11 @@ author:
   name             : "Vedang Joshi"
   avatar           : "profile.png"
   bio              : "Undergrad at the University of Bristol who just wants to better appreciate the world around us through maths"
-  location         : "Greater Bristol Area, United Kingdom"
+  location         : "Greater Bristol Area, UK"
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
-  email            :
+  pubmed           : 
+  googlescholar    : 
+  email            : 
   researchgate     : "https://www.researchgate.net/profile/Vedang_Joshi3"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/vedangjoshi/"
-  orcid            : ""
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
