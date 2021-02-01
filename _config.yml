@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Vedang Joshi"
 title_separator          : "-"
-name                     : &name "Vedang"
+name                     : &name "Vedang Joshi"
 description              : &description "personal description"
 url                      : https://vedang-joshi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,7 +83,7 @@ author:
   name             : "Vedang Joshi"
   avatar           : "profile.png"
   bio              : "Undergrad at the University of Bristol who just wants to better appreciate the world around us through maths"
-  location         : "Greater Bristol Area, UK"
+  location         : "Bristol, UK"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         : "https://www.facebook.com/vedangjoshi2000"
   foursquare       :
-  github           : "vedang-joshi"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
