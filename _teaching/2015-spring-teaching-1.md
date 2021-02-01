@@ -2,7 +2,7 @@
 title: "Teaching Assistant"
 collection: teaching
 type: "Workshop"
-  permalink: /teaching/2015-spring-teaching-2
+  permalink: /teaching/2015-spring-teaching-1
 venue: "Mathematics in Education and Industry"
 date: 2020-01-01
 location: "Swindon, UK"
