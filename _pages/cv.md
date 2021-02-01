@@ -21,19 +21,19 @@ Work experience
   * Spatially-explicit stochastic dynamic epidemiological simulations on Cassava Brown Streak Disease (Uganda), Wheat Stem Rust (Ethiopia), Banana Bunchy Top (Nigeria) and Citrus Huanglongbing (USA, Australia) epidemics
   * Supervisor: [Professor Chris Gilligan](https://www.plantsci.cam.ac.uk/directory/gilligan-chris), [Dr. Renata Retkute](https://www.plantsci.cam.ac.uk/directory/retkute-renata) and [Dr. Richard Stutt](https://www.plantsci.cam.ac.uk/directory/stutt-richard)
 
-* Summer 2015: Research Assistant
+* Summer 2020: Research Assistant
   * Imperial College London, UK
   * Node-centralities in mitochondrial protein interaction networks for predicting gene essentiality
   * Supervisor: [Professor Nick Jones](https://www.imperial.ac.uk/people/nick.jones) and [Dr. Florian Klimm](https://floklimm.github.io)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Packages: NumPy, SciPy, SymPy, Matplotlib (Python packages)
+* Languages: Python, MATLAB, limited experience in C and R
+* Operating Systems: MS Windows, MacOSX, Unix/Linux (Used University of Bristol’s BlueCrys-
+tal3 HPC; limited experience writing Bash scripts)
+* Software: Maple, RStudio, Wolfram Mathematica, MS Office, GitHub
+* Typography: LaTeX
 
 Publications (in preparation)
 ======
@@ -46,7 +46,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
