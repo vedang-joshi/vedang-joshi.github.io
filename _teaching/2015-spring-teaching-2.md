@@ -1,14 +1,14 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching experience 2"
 collection: teaching
 type: "Workshop"
-  permalink: /teaching/2015-spring-teaching-1
-venue: "Mathematics in Education and Industry"
-date: 2020-01-01
-location: "Swindon, UK"
+permalink: /teaching/2015-spring-teaching-1
+venue: "University 1, Department"
+date: 2015-01-01
+location: "City, Country"
 ---
 
-[Advanced Mathematics Support Programme](https://amsp.org.uk): Tutoring Year 12 maths students preparing for STEP and MAT. Helping with online tutorials, marking papers and worksheets and giving written feedback on group mathematical modelling tasks.
+This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======
