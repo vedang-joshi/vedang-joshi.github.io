@@ -10,3 +10,5 @@ estimate from the US Open 2014 average match times. The winning chances of playe
 a separate smaller 5 × 5 fundamental matrix. The server had a winning chance of 0.926 and the receiver
 had a winning chance of 0.074. The chances of both players losing with 3 advantages is minuscule with
 2.26×10<sup>-3</sup> 
+
+Download PDF [here](http://vedang-joshi.github.io/files/mdm1_1.pdf)
