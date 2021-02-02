@@ -13,3 +13,4 @@ using Hamill's equation, a function of the height of the reservoir is a good eno
 equation takes into account the temperature in the region to give an approximation for the outflow by evaporation. Taking into account the 
 rainfall between 1980 and 2010, the average precipitation found was 1120 mm equivalent to a flow of 3.55 × 10<sup>-8</sup> ms<sup>-1</sup>
 
+Download PDF [here](http://vedang-joshi.github.io/files/mdm1_2.pdf)
