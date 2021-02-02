@@ -1,0 +1,15 @@
+---
+title: "Modelling flow of water in a reservoir using ODEs"
+excerpt: "Mathematical Data Modelling Project, 2019 <br/><img src='/images/mdm1_2.png'>"
+collection: portfolio
+---
+This paper aims to establish relationships between the outflow and the inflow of water in a general reservoir in the United Kingdom, 
+through the use of ordinary differential equations. Two proposed models of the inflow-outflow equations include assuming the reservoir as a 
+perfect cuboid, and that it is at 50% of its maximum capacity. The Derwent reservoir in Derbyshire is considered to be an ideal reservoir to 
+model first in this paper and calculations for the daily inflow and outflow give us a rate of change equal to 2.38 × 10
+<sup>-2</sup> m day<sup>-1</sup>. Our second model looks more closely into these same factors, taking into account further detail where possible. 
+The Manning-Strickler equation is used to model the inflow of water as a good approximation for open water channels.Assuming a laminar flow, 
+using Hamill's equation, a function of the height of the reservoir is a good enough fit for the outflow through pipes. Shuttleworth's modified 
+equation takes into account the temperature in the region to give an approximation for the outflow by evaporation. Taking into account the 
+rainfall between 1980 and 2010, the average precipitation found was 1120 mm equivalent to a flow of 3.55 × 10<sup>-8</sup> ms<sup>-1</sup>
+
