@@ -1,0 +1,14 @@
+---
+title: "Creating MATLAB simulations to model aircraft dynamics"
+excerpt: "Mathematical Data Modelling Project, 2019 <br/><img src='/images/mdm2_2.png'>"
+collection: portfolio
+---
+
+The complexity in modelling aircraft pitch dynamics arises from the need to understand non-linear modelling. 
+We use simple Euler method approximations, in two of the three models we present, and MATLAB’s powerful ODE solver 
+in one of the models. We analyse how pitch angles and linear velocities change in time in the body axes of the aircraft 
+and talk about how unstable motion demonstrates “phugoid” and “short period” behaviour. We demonstrate our models on light 
+aircraft types i.e. Cessna 172 and 182. We present the entire code used to simulate all models and unlike other studies in 
+literature, which reduces the repeatability of results.
+
+Download PDF [here](http://vedang-joshi.github.io/files/mdm2_2.pdf)
