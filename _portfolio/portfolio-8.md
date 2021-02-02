@@ -1,6 +1,6 @@
 ---
 title: "#tweetparsing: Twitter data mining introduction through parts-of-speech tagging, topic modelling and tweet generation techniques"
-excerpt: "Mathematical Data Modelling Project, 2019 <br/><img src='/images/mdm2_4.png'>"
+excerpt: "Mathematical Data Modelling Project, 2020 <br/><img src='/images/mdm2_4.png'>"
 collection: portfolio
 ---
 
