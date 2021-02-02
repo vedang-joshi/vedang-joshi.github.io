@@ -1,6 +1,6 @@
 ---
 title: "Creating Markov models in a game of tennis using Maple"
-excerpt: "<br/><img src='/images/mdm1_1.png'>"
+excerpt: "Mathematical Data Modelling Project, 2019 <br/><img src='/images/mdm1_1.png'>"
 collection: portfolio
 ---
 
