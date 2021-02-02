@@ -1,0 +1,15 @@
+---
+title: "Computer simulations of two catching algorithms to improve the efficiency of catching fish"
+excerpt: "Mathematical Data Modelling Project, 2019 <br/><img src='/images/mdm1_3.png'>"
+collection: portfolio
+---
+
+We try to understand the efficiency of two proposed algorithms to catch fish, and use regression analysis, to differentiate 
+between the two models, in this paper. This study was motivated by an ever increasing demand of fish for a rising population 
+in the UK. The output of this industry to the UK economy is substantial to encourage future research into the topic. We use 
+regression analysis to account for standard errors in the data points obtained and calculate the errors in the intercepts for 
+all cases. We find that the food source algorithm (a model which uses major food sources in an arbitrary lake as checkpoints for 
+a gathering of a school of fish) is a more realistic model for catching fish. We observe that the speed of the boat explains ≈ 68% 
+of the variations in time taken to catch the fish and that the area of the lake explains ≈ 50% of the variations in time taken to 
+catch the fish. We also propose further study into this topic will aid the UK economy and provide a sustainable food source for 
+future generations.
