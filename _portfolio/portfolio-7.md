@@ -1,6 +1,6 @@
 ---
 title: "Cognitive modelling of human-virtual player interaction: using a PI controller to track motion"
-excerpt: "Mathematical Data Modelling Project, 2019 <br/><img src='/images/mdm2_3.png'>"
+excerpt: "Mathematical Data Modelling Project, 2020 <br/><img src='/images/mdm2_3.png'>"
 collection: portfolio
 ---
 
