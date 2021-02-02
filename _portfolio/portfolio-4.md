@@ -13,3 +13,5 @@ a gathering of a school of fish) is a more realistic model for catching fish. We
 of the variations in time taken to catch the fish and that the area of the lake explains ≈ 50% of the variations in time taken to 
 catch the fish. We also propose further study into this topic will aid the UK economy and provide a sustainable food source for 
 future generations.
+
+Download PDF [here](http://vedang-joshi.github.io/files/mdm1_3.pdf)
