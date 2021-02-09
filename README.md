@@ -1,1 +1,1 @@
-
+Academic website for Vedang Joshi built on the "AcademicPages" GitHub Pages template (forked then detached by Stuart Geiger from the Minimal Mistakes Jekyll Theme, © 2016 Michael Rose and released under the MIT License, posted in License.md).
