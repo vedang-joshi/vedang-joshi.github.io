@@ -2,7 +2,7 @@
 title: "Demonstrator"
 collection: teaching
 type: "Undergraduate Course"
-permalink: /teaching/2020-autumn-teaching-3
+permalink: /teaching/2020-teaching-3
 venue: "University of Bristol, Department of Engineering Mathematics"
 date: 2020-01-01
 location: "Bristol, UK"
