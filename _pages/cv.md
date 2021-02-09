@@ -19,16 +19,14 @@ Education
 Work experience
 ======
 * Summer 2021: Research Assistant
-  * University of Cambridge, UK
   * Spatially-explicit stochastic dynamic epidemiological simulations on Cassava Brown Streak Disease (Uganda), Wheat Stem Rust (Ethiopia), Banana Bunchy Top (Nigeria) and Citrus Huanglongbing (USA, Australia) epidemics
-  * Supervisor: [Professor Chris Gilligan](https://www.plantsci.cam.ac.uk/directory/gilligan-chris), [Dr. Renata Retkute](https://www.plantsci.cam.ac.uk/directory/retkute-renata) and [Dr. Richard Stutt](https://www.plantsci.cam.ac.uk/directory/stutt-richard)
+  * Supervisors: [Professor Chris Gilligan](https://www.plantsci.cam.ac.uk/directory/gilligan-chris), [Dr. Renata Retkute](https://www.plantsci.cam.ac.uk/directory/retkute-renata) and [Dr. Richard Stutt](https://www.plantsci.cam.ac.uk/directory/stutt-richard)
 
 ![Editing a markdown file for a talk](/images/cam_logo.png)
 
 * Summer 2020: Research Assistant
-  * Imperial College London, UK
   * Node-centralities in mitochondrial protein interaction networks for predicting gene essentiality
-  * Supervisor: [Professor Nick Jones](https://www.imperial.ac.uk/people/nick.jones) and [Dr. Florian Klimm](https://floklimm.github.io)
+  * Supervisors: [Professor Nick Jones](https://www.imperial.ac.uk/people/nick.jones) and [Dr. Florian Klimm](https://floklimm.github.io)
 
 ![Editing a markdown file for a talk](/images/imperial.png)
   
