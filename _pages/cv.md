@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* Summer 2021: Research Assistant
+* Summer 2021: Research Assistant (Upcoming)
   * Spatially-explicit stochastic dynamic epidemiological simulations on Cassava Brown Streak Disease (Uganda), Wheat Stem Rust (Ethiopia), Banana Bunchy Top (Nigeria) and Citrus Huanglongbing (USA, Australia) epidemics
   * Supervisors: [Professor Chris Gilligan](https://www.plantsci.cam.ac.uk/directory/gilligan-chris), [Dr. Renata Retkute](https://www.plantsci.cam.ac.uk/directory/retkute-renata) and [Dr. Richard Stutt](https://www.plantsci.cam.ac.uk/directory/stutt-richard)
 
