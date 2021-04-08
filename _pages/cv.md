@@ -15,6 +15,7 @@ Education
 ======
 * MEng in Engineering Mathematics, University of Bristol, UK, 2022 (expected)
 * A-Levels in Mathematics, Further Mathematics, French and Physics, Royal Wootton Bassett Academy, UK, 2018
+* GCSEs (9 A^* to As), Royal Wootton Bassett Academy, UK, 2016
 
 Work experience
 ======
