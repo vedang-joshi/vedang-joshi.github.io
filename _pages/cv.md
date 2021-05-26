@@ -17,7 +17,7 @@ Education
 * A-Levels in Mathematics, Further Mathematics, French and Physics, Royal Wootton Bassett Academy, UK, 2018
 * GCSEs, Royal Wootton Bassett Academy, UK, 2015-16
 
-Work experience
+Research experience
 ======
 * Summer 2021: Research Assistant
   * Spatially-explicit stochastic dynamic epidemiological simulations on Cassava Brown Streak Disease (Uganda), Wheat Stem Rust (Ethiopia), Banana Bunchy Top (Nigeria) and Citrus Huanglongbing (USA, Australia) epidemics
