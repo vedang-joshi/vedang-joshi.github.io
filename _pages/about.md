@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi! I'm Vedang Joshi and this is my personal webpage."
+title: "Hi! I'm Vedang Joshi"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
