@@ -35,7 +35,8 @@ Skills
 ======
 * Packages: NumPy, SciPy, SymPy, Matplotlib (Python packages)
 * Languages: Python, MATLAB, limited experience in C and R
-* Operating Systems: MS Windows, MacOSX, Unix/Linux (Used University of Bristol’s BlueCrystal3 HPC; limited experience writing Bash scripts)
+* Operating Systems: MS Windows, MacOSX, Unix/Linux
+* High Performance Computing (HPC): UoBristol’s BlueCrystal3 (Moab/Torque), UoCambridge’s CSD3 (Slurm)
 * Software: Maple, RStudio, Wolfram Mathematica, MS Office, GitHub
 * Typography: LaTeX
 
