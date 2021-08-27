@@ -21,7 +21,7 @@ In my spare time I enjoy reading crime fiction and medical thrillers. I love tra
 
 
 
-![Editing a markdown file for a talk](/images/University_of_Bristol_logo.png)
-![Editing a markdown file for a talk](/images/BRL-SNI-1920w.png)
+![Editing a markdown file for a talk](/images/University_of_Bristol_logo.png) ![Editing a markdown file for a talk](/images/BRL-SNI-1920w.png)
+
 
 
