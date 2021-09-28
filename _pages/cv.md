@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-View full CV [here](http://vedang-joshi.github.io/files/cv-6.pdf).
+View full CV [here](http://vedang-joshi.github.io/files/Vedang_Joshi_CV.pdf).
 
 Education
 ======
@@ -20,31 +20,26 @@ Education
 Research experience
 ======
 * Summer 2021: Research Assistant
-  * Spatially-explicit stochastic dynamic epidemiological simulations on Cassava Brown Streak Disease (Uganda), Wheat Stem Rust (Ethiopia), Banana Bunchy Top (Nigeria) and Citrus Huanglongbing (USA, Australia) epidemics
-  * Supervisors: [Professor Chris Gilligan](https://www.plantsci.cam.ac.uk/directory/gilligan-chris), [Dr. Renata Retkute](https://www.plantsci.cam.ac.uk/directory/retkute-renata) and [Dr. Richard Stutt](https://www.plantsci.cam.ac.uk/directory/stutt-richard)
+  * Spatially-explicit stochastic dynamic epidemiological simulations on Citrus Huanglongbing.
+  * Modelling the spread of tree pests through road networks using stochastic simulations.
+  * Supervisors: [Dr. Renata Retkute](https://www.plantsci.cam.ac.uk/directory/retkute-renata), [Dr. Cerian Webb](https://www.plantsci.cam.ac.uk/directory/cerian-webb) and [Professor Chris Gilligan](https://www.plantsci.cam.ac.uk/directory/gilligan-chris)
 
 ![Editing a markdown file for a talk](/images/cam_logo.png)
 
 * Summer 2020: Research Assistant
   * Node-centralities in mitochondrial protein interaction networks for predicting gene essentiality
-  * Supervisors: [Professor Nick Jones](https://www.imperial.ac.uk/people/nick.jones) and [Dr. Florian Klimm](https://floklimm.github.io)
+  * Supervisors: [Dr. Florian Klimm](https://floklimm.github.io) and [Professor Nick Jones](https://www.imperial.ac.uk/people/nick.jones)
 
 ![Editing a markdown file for a talk](/images/imperial.png)
   
-Skills
+Technical Skills
 ======
-* Packages: NumPy, SciPy, SymPy, Matplotlib (Python packages)
 * Languages: Python, MATLAB, limited experience in C and R
 * Operating Systems: MS Windows, MacOSX, Unix/Linux
-* High Performance Computing (HPC): UoBristol’s BlueCrystal3 (Moab/Torque), UoCambridge’s CSD3 (Slurm)
-* Software: Maple, RStudio, Wolfram Mathematica, MS Office, GitHub
+* High Performance Computing (HPC): SLURM, Moab/Torque proficient
+* Software: Maple, RStudio, Wolfram Mathematica, Jupyter Notebook/Google Colab, QGIS (Open Source Geographic Information System), GitHub, MS Office
 * Typography: LaTeX
 
-Publications (in preparation)
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Teaching
 ======
