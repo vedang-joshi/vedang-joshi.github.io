@@ -1,10 +1,7 @@
 ---
-title: "Voting models in random networks"
-excerpt: "MATHM6201 Complex Networks presentation, 2021"
+title: "Minimal model for signal-induced Ca2+ oscillations and for their frequency encoding through protein phosphorylation: A critical model comparison and dynamics analysis"
+excerpt: "EMATM0007 Mathematical Modelling in Physiology and Medicine, 2021"
 collection: portfolio
 ---
 
-Grade: 75%
-
-Download presentation [here](http://vedang-joshi.github.io/files/complex_networks_presentation_Vedang_Joshi_recorded.pptx)<br/>
-The code required to reproduce the animations may be found [here](https://github.com/vedang-joshi/ComplexNetworks)
+Download paper [here](http://vedang-joshi.github.io/files/complex_networks_presentation_Vedang_Joshi_recorded.pptx)<br/>
