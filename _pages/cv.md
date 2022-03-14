@@ -31,18 +31,3 @@ Research experience
   * Supervisors: [Dr. Florian Klimm](https://floklimm.github.io) and [Professor Nick Jones](https://www.imperial.ac.uk/people/nick.jones)
 
 ![Editing a markdown file for a talk](/images/imperial.png)
-  
-Technical Skills
-======
-* Languages: Python, MATLAB, limited experience in C and R
-* Operating Systems: MS Windows, MacOSX, Unix/Linux
-* High Performance Computing (HPC): SLURM, Moab/Torque proficient
-* Software: Maple, RStudio, Wolfram Mathematica, Jupyter Notebook/Google Colab, QGIS (Open Source Geographic Information System), GitHub, MS Office
-* Typography: LaTeX
-
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
