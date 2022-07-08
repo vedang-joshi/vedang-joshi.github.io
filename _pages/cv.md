@@ -19,15 +19,15 @@ Education
 
 Research experience
 ======
+![Editing a markdown file for a talk](/images/cam_logo.png)
 * Summer 2021: Research Assistant
   * Spatially-explicit stochastic dynamic epidemiological simulations on Citrus Huanglongbing.
   * Modelling the spread of tree pests through road networks using stochastic simulations.
   * Supervisors: [Dr. Renata Retkute](https://www.plantsci.cam.ac.uk/directory/retkute-renata), [Dr. Cerian Webb](https://www.plantsci.cam.ac.uk/directory/cerian-webb) and [Professor Chris Gilligan](https://www.plantsci.cam.ac.uk/directory/gilligan-chris)
 
-![Editing a markdown file for a talk](/images/cam_logo.png)
-
+![Editing a markdown file for a talk](/images/imperial.png)
 * Summer 2020: Research Assistant
   * Node-centralities in mitochondrial protein interaction networks for predicting gene essentiality
   * Supervisors: [Dr. Florian Klimm](https://floklimm.github.io) and [Professor Nick Jones](https://www.imperial.ac.uk/people/nick.jones)
 
-![Editing a markdown file for a talk](/images/imperial.png)
+
