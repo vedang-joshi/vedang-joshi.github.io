@@ -14,9 +14,6 @@ View full CV [here](http://vedang-joshi.github.io/files/Vedang_Joshi_CV.pdf).
 Education
 ======
 * MEng in Engineering Mathematics, University of Bristol, UK, 2022
-
-![Editing a markdown file for a talk](/images/University_of_Bristol_logo.png)
-
 * A-Levels in Mathematics, Further Mathematics, French and Physics, Royal Wootton Bassett Academy, UK, 2018
 * GCSEs, Royal Wootton Bassett Academy, UK, 2015-16
 
