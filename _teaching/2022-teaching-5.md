@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Demonstrator"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2022-teaching-5
