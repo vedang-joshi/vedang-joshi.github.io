@@ -15,7 +15,7 @@ My research interests lie at the interface of mathematics and biology. Specifica
 In my spare time, I enjoy reading crime fiction and medical thrillers. I love travelling and meeting new people and have travelled across Europe, through South East Asia and North America. I'm a Silver and Gold [Duke of Edinburgh Award](https://www.dofe.org/about/) holder and have hiked extensively in the Western Ghats, India; Dartmoor in Devon; Brecon Beacons, Wales and in the Lake District, Northern England. 
 
 
-https://user-images.githubusercontent.com/50496437/178726960-3455be6b-04f0-49f9-98da-398f40b9173e.mp4
+![Editing a markdown file for a talk](https://user-images.githubusercontent.com/50496437/178726960-3455be6b-04f0-49f9-98da-398f40b9173e.mp4)
 ![Editing a markdown file for a talk](/images/University_of_Bristol_logo.png)
 
 
