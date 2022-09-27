@@ -14,7 +14,7 @@ My research interests lie at the interface of mathematics and biology. Specifica
 
 In the summer of 2021, I worked on epidemic spread for the Citrus Huanglongbing disease using stochastic methods. I also worked on how road networks act as potential vectors for plant pathogen dispersal. Both projects were based at the [University of Cambridge](https://plantepidemics.github.io). In the summer of 2020, I worked on gene essentiality in mitochondrial protein-protein interaction networks at [Imperial College London](https://www.imperial.ac.uk/biomathematics-group/).
 
-In my spare time, I enjoy reading crime fiction and medical thrillers. I love travelling and meeting new people and have travelled across Europe, through South East Asia and North America. I'm a Silver and Gold [Duke of Edinburgh Award](https://www.dofe.org/about/) holder and have hiked extensively in the Western Ghats, India; Dartmoor in Devon; Brecon Beacons, Wales and in the Lake District, Northern England. 
+In my spare time, I enjoy reading crime fiction and medical thrillers. I love travelling and meeting new people and have travelled across Europe, through South East Asia and North America. I'm a Silver and Gold [Duke of Edinburgh Award](https://www.dofe.org/about/) holder and have hiked extensively in the Western Ghats, India; Dartmoor in Devon; Brecon Beacons, Wales and in the Lake District, Northern England. More recently, I'm planning on obtaining a scuba diving licence through the [University of Portsmouth Sub-Aqua Club]{https://www.upsac.co.uk/}.
 
 
 
