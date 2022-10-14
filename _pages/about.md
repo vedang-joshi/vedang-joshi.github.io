@@ -10,7 +10,7 @@ redirect_from:
 
 ## About Me
 
-I'm a graduate project engineer at [Boeing UK](https://www.boeing.co.uk/boeing-in-the-uk.page) based in [Gosport](https://www.google.com/maps/place/Gosport/@50.8068225,-1.1855995,13z/data=!3m1!4b1!4m5!3m4!1s0x487466142f9bda5f:0x5312889e08c5e933!8m2!3d50.794995!4d-1.117547). I'm working as part of the Systems Engineering, Integration and Test (SEIT) team, maintaining and supporting aircraft modifications. I graduated from the [University of Bristol](https://www.bristol.ac.uk) with an MEng in [Engineering Mathematics](http://www.bristol.ac.uk/engineering/departments/engineering-mathematics/) in 2022. I'm originally from [Pune](https://www.google.com/maps/place/Pune,+Maharashtra,+India/@18.5246164,73.8629674,12z/data=!3m1!4b1!4m5!3m4!1s0x3bc2bf2e67461101:0x828d43bf9d9ee343!8m2!3d18.5204303!4d73.8567437), where I spent some of my childhood, the rest of which I spent in [Swindon](https://www.google.com/maps/place/Swindon/@51.5688109,-1.8273244,13z/data=!3m1!4b1!4m5!3m4!1s0x4871444f3ddbe4e5:0xa556bf37e9c5949a!8m2!3d51.5583777!4d-1.7809759).
+I'm a graduate project engineer at [Boeing UK](https://www.boeing.co.uk/boeing-in-the-uk.page) based in [Gosport](https://www.google.com/maps/place/Gosport/@50.8068225,-1.1855995,13z/data=!3m1!4b1!4m5!3m4!1s0x487466142f9bda5f:0x5312889e08c5e933!8m2!3d50.794995!4d-1.117547). I'm working as part of the Systems Engineering, Integration and Test (SEIT) team, maintaining and supporting aircraft modifications. I graduated from the [University of Bristol](https://www.bristol.ac.uk) with an MEng in [Engineering Mathematics](http://www.bristol.ac.uk/engineering/departments/engineering-mathematics/) in 2022.
 
 ## Research Interests
 
