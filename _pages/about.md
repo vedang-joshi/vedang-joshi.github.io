@@ -25,11 +25,6 @@ In my spare time, I enjoy reading crime fiction and medical thrillers. I love tr
 
 
 
-![Editing a markdown file for a talk](/images/Boeing_full_logo.png)
-![Editing a markdown file for a talk](/images/University_of_Bristol_logo.png)
-
-
-
 
 
 
