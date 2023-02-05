@@ -13,9 +13,11 @@ View full CV [here](http://vedang-joshi.github.io/files/Vedang_Joshi_CV.pdf).
 
 Education
 ======
-* MEng (Hons) in Engineering Mathematics, University of Bristol, UK, 2022 /n
-  Dissertation: A lateral line sensor based mechanistic algorithm for emergent fish schooling behaviours in multi-agent swarms /n
-  Supervisors: [Prof. Sabine Hauert](https://hauertlab.com/sabine-hauert/) and [Dr. Elliott Scott](https://www.bristol.ac.uk/people/person/Elliott-Scott-ac596f53-8930-43ef-99f3-330f0e394772/)
+* MEng (Hons) in Engineering Mathematics, University of Bristol, UK, 2022 
+  Dissertation: A lateral line sensor based mechanistic algorithm for emergent fish schooling behaviours in multi-agent swarms. 
+  
+  Supervisors: [Prof. Sabine Hauert](https://hauertlab.com/sabine-hauert/) and [Dr. Elliott Scott](https://www.bristol.ac.uk/people/person/Elliott-Scott-ac596f53-8930-43ef-99f3-330f0e394772/). 
+  
 * A-Levels in Mathematics, Further Mathematics, French and Physics, Royal Wootton Bassett Academy, UK, 2018
 * GCSEs, Royal Wootton Bassett Academy, UK, 2016
 
