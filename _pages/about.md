@@ -10,7 +10,7 @@ redirect_from:
 
 ## About Me
 
-I'm a graduate project engineer at [Boeing UK](https://www.boeing.co.uk/boeing-in-the-uk.page) based in [Gosport](https://www.google.com/maps/place/Gosport/@50.8068225,-1.1855995,13z/data=!3m1!4b1!4m5!3m4!1s0x487466142f9bda5f:0x5312889e08c5e933!8m2!3d50.794995!4d-1.117547). I'm working as part of the Systems Engineering, Integration and Test (SEIT) team, maintaining and supporting aircraft modifications. I graduated from the [University of Bristol](https://www.bristol.ac.uk) with an MEng (Hons) in [Engineering Mathematics](http://www.bristol.ac.uk/engineering/departments/engineering-mathematics/) in 2022.
+I'm a graduate engineer at [Boeing UK](https://www.boeing.co.uk/boeing-in-the-uk.page) based in [Bristol](https://www.google.com/maps/place/Bristol/@51.468575,-2.6607569,12z/data=!3m1!4b1!4m6!3m5!1s0x4871836681b3d861:0x8ee4b22e4b9ad71f!8m2!3d51.454513!4d-2.58791!16zL20vMDk1bDA). I'm working as part of the recently established Research, Development & Strategy team. I graduated from the [University of Bristol](https://www.bristol.ac.uk) with an MEng (Hons) in [Engineering Mathematics](http://www.bristol.ac.uk/engineering/departments/engineering-mathematics/) in 2022.
 
 ## Research Interests
 
