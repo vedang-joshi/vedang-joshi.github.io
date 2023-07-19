@@ -17,10 +17,10 @@ Education
 
   Dissertation: [A lateral line sensor based mechanistic algorithm for emergent fish schooling behaviours in multi-agent swarms](https://vedang-joshi.github.io/files/Vedang_Joshi_Dissertation.pdf). 
   
-  Supervisors: [Prof. Sabine Hauert](https://hauertlab.com/sabine-hauert/) and [Dr. Elliott Scott](https://www.bristol.ac.uk/people/person/Elliott-Scott-ac596f53-8930-43ef-99f3-330f0e394772/). 
+  Supervisors: [Prof. Sabine Hauert](https://hauertlab.com/sabine-hauert/) and [Dr. Elliott Scott](https://www.bristol.ac.uk/people/person/Elliott-Scott-ac596f53-8930-43ef-99f3-330f0e394772/)
   
 * A-Levels in Mathematics, Further Mathematics, French and Physics, Royal Wootton Bassett Academy, UK, 2018
-* GCSEs, Royal Wootton Bassett Academy, UK, 2016
+* 9 GCSEs (A*-A), Royal Wootton Bassett Academy, UK, May 2015 - August 2016
 
 Research experience
 ======
