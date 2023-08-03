@@ -22,6 +22,12 @@ Education
 * A-Levels in Mathematics, Further Mathematics, French and Physics, Royal Wootton Bassett Academy, UK, 2018
 * 9 GCSEs (A*-A), Royal Wootton Bassett Academy, UK, May 2015 - August 2016
 
+Industry experience
+======
+* Sept 2022 - Present: Rotational Graduate Scheme at [Boeing](https://www.boeing.co.uk)
+  * Research, Development \& Engineering Strategy, Bristol, UK [March 2023 - Present]
+  * Chinook Project Engineering, Gosport, UK [Sept 2022 - Feb 2023]
+
 Research experience
 ======
 * Summer 2021: Research Assistant at the [University of Cambridge](https://www.cam.ac.uk)
