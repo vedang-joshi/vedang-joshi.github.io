@@ -10,7 +10,7 @@ redirect_from:
 
 ## About Me
 
-I'm an engineer at [Boeing UK](https://www.boeing.co.uk/boeing-in-the-uk.page) on the rotaional graduate scheme, working as part of the recently established Research, Development & Engineering Strategy team. I graduated from the [University of Bristol](https://www.bristol.ac.uk) with an MEng (Hons) in [Engineering Mathematics](http://www.bristol.ac.uk/engineering/departments/engineering-mathematics/) in 2022.
+I'm an engineer at [Boeing UK](https://www.boeing.co.uk/boeing-in-the-uk.page) on the rotational graduate scheme, working as part of the recently established Research, Development & Engineering Strategy team. I graduated from the [University of Bristol](https://www.bristol.ac.uk) with an MEng (Hons) in [Engineering Mathematics](http://www.bristol.ac.uk/engineering/departments/engineering-mathematics/) in 2022.
 
 ## Research Interests
 
