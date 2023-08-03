@@ -10,7 +10,7 @@ redirect_from:
 
 ## About Me
 
-I'm a graduate engineer at [Boeing UK](https://www.boeing.co.uk/boeing-in-the-uk.page) based in [Bristol](https://www.google.com/maps/place/Bristol/@51.468575,-2.6607569,12z/data=!3m1!4b1!4m6!3m5!1s0x4871836681b3d861:0x8ee4b22e4b9ad71f!8m2!3d51.454513!4d-2.58791!16zL20vMDk1bDA). I'm working as part of the recently established Research, Development & Strategy team. I graduated from the [University of Bristol](https://www.bristol.ac.uk) with an MEng (Hons) in [Engineering Mathematics](http://www.bristol.ac.uk/engineering/departments/engineering-mathematics/) in 2022.
+I'm a graduate engineer at [Boeing UK](https://www.boeing.co.uk/boeing-in-the-uk.page) based in [Bristol](https://www.google.com/maps/place/Bristol/@51.468575,-2.6607569,12z/data=!3m1!4b1!4m6!3m5!1s0x4871836681b3d861:0x8ee4b22e4b9ad71f!8m2!3d51.454513!4d-2.58791!16zL20vMDk1bDA). I'm working as part of the recently established Research, Development & Engineering Strategy team. I graduated from the [University of Bristol](https://www.bristol.ac.uk) with an MEng (Hons) in [Engineering Mathematics](http://www.bristol.ac.uk/engineering/departments/engineering-mathematics/) in 2022.
 
 ## Research Interests
 
