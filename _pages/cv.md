@@ -25,7 +25,7 @@ Education
 Industry experience
 ======
 * Sept 2022 - Present: Rotational Graduate Scheme at [Boeing](https://www.boeing.co.uk)
-  * Research, Development \& Engineering Strategy, Bristol, UK [March 2023 - Present]
+  * Research, Development & Engineering Strategy, Bristol, UK [March 2023 - Present]
   * Chinook Project Engineering, Gosport, UK [Sept 2022 - Feb 2023]
 
 Research experience
