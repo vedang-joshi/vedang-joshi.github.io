@@ -14,18 +14,16 @@ View full CV [here](http://vedang-joshi.github.io/files/Vedang_Joshi_CV.pdf) (up
 Education
 ======
 * MEng (Hons) in Engineering Mathematics, University of Bristol, UK, 2022  
-
   Dissertation: [A lateral line sensor based mechanistic algorithm for emergent fish schooling behaviours in multi-agent swarms](https://vedang-joshi.github.io/files/Vedang_Joshi_Dissertation.pdf). 
-  
-  Supervisors: [Prof. Sabine Hauert](https://hauertlab.com/sabine-hauert/) and [Dr. Elliott Scott](https://www.bristol.ac.uk/people/person/Elliott-Scott-ac596f53-8930-43ef-99f3-330f0e394772/)
+  Supervisors: [Prof. Sabine Hauert](https://hauertlab.com/sabine-hauert/) and [Dr. Elliott Scott](https://www.linkedin.com/in/elliott-scott-338742ab/)
   
 * A-Levels in Mathematics, Further Mathematics, French and Physics, Royal Wootton Bassett Academy, UK, 2018
-* 9 GCSEs (A*-A), Royal Wootton Bassett Academy, UK, May 2015 - August 2016 [link](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=web&cd=&ved=0CDgQw7AJahcKEwjgteisnc2AAxUAAAAAHQAAAAAQAw&url=https%3A%2F%2Fwww.facebook.com%2FRWBAcademy%2Fphotos%2Fa.197855990312874%2F995716823860116%2F%3Ftype%3D3&psig=AOvVaw1Y9jR0dRXGnRSm7X7ivYB1&ust=1691589783613996&opi=89978449)
 
 Industry experience
 ======
 * Sept 2022 - Present: Rotational Graduate Scheme at [Boeing](https://www.boeing.co.uk)
-  * Research, Development & Engineering Strategy, Bristol, UK [March 2023 - Present]
+  * Strategic Experimentation & Analysis, Fleet, UK [Sept 2023 - Present]
+  * Research, Development & Engineering Strategy, Bristol, UK [March 2023 - Sept 2023]
   * TLCS-2 Project Engineering, Gosport, UK [Sept 2022 - Feb 2023]
 
 Research experience
