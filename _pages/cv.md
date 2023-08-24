@@ -18,7 +18,7 @@ Education
   
   Supervisors: [Prof. Sabine Hauert](https://hauertlab.com/sabine-hauert/) and [Dr. Elliott Scott](https://www.linkedin.com/in/elliott-scott-338742ab/)
   
-* A-Levels in Mathematics, Further Mathematics, French and Physics, Royal Wootton Bassett Academy, UK, 2018
+* A-Levels in Mathematics, Further Mathematics, French and Physics, Royal Wootton Bassett Academy Sixth Form, UK, 2018
 
 Industry experience
 ======
