@@ -30,7 +30,7 @@ Research experience
 ======
 * Summer 2021: Research Assistant at the [University of Cambridge](https://www.cam.ac.uk)
   * Spatially-explicit stochastic dynamic epidemiological simulations on Citrus Huanglongbing.
-  * Modelling the spread of tree pests through road networks using stochastic simulations.
+  * Modelling the spread of tree pests through road networks using stochastic simulations. Acknowledged in [Modelling the spread of tree pests and pathogens in urban forests](https://www.sciencedirect.com/science/article/pii/S1618866723002078)
   * Supervisors: [Dr. Renata Retkute](https://www.plantsci.cam.ac.uk/directory/retkute-renata), [Dr. Cerian Webb](https://www.plantsci.cam.ac.uk/directory/cerian-webb) and [Prof. Chris Gilligan](https://www.plantsci.cam.ac.uk/directory/gilligan-chris)
 
 * Summer 2020: Research Assistant at [Imperial College London](https://www.imperial.ac.uk)
