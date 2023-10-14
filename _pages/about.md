@@ -10,7 +10,7 @@ redirect_from:
 
 ## About Me
 
-I'm an engineer at [Boeing UK](https://www.boeing.co.uk/boeing-in-the-uk.page) on the rotational graduate scheme, working as part of the Strategic Experimentation and Analysis team. I graduated from the [University of Bristol](https://www.bristol.ac.uk) with an MEng (Hons) in [Engineering Mathematics](http://www.bristol.ac.uk/engineering/departments/engineering-mathematics/) in 2022.
+I'm an engineer at [Boeing UK](https://www.boeing.co.uk/boeing-in-the-uk.page) on the rotational graduate scheme, working as part of the Strategic Experimentation and Analysis team. I have also recently started a part-time PhD at [King's College London](https://www.kcl.ac.uk/) in [Computational Engineering](https://www.kcl.ac.uk/research/computational-engineering), under the supervision of [Dr. Julia Li](https://www.kcl.ac.uk/people/juan-li). I graduated from the [University of Bristol](https://www.bristol.ac.uk) with an [MEng (Hons) in Engineering Mathematics](http://www.bristol.ac.uk/engineering/departments/engineering-mathematics/) in 2022.
 
 ## Research Interests
 
