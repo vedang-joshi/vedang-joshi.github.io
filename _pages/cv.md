@@ -16,7 +16,7 @@ Education
 * Doctor of Philosophy - Computational Engineering, [King's College London](https://www.kcl.ac.uk/), UK, 2023 - Present  
 Advisor: [Dr. Julia Li](https://www.kcl.ac.uk/people/juan-li)
 
-* MEng (Hons) - [Engineering Mathematics](https://www.bristol.ac.uk/study/undergraduate/2024/engineering-maths/meng-engineering-mathematics/), [University of Bristol](https://www.bristol.ac.uk/), UK, 2022  
+* MEng (Hons) - Engineering Mathematics, [University of Bristol](https://www.bristol.ac.uk/), UK, 2022  
   Dissertation: [A lateral line sensor based mechanistic algorithm for emergent fish schooling behaviours in multi-agent swarms](https://vedang-joshi.github.io/files/Vedang_Joshi_Dissertation.pdf)  
   Advisors: [Prof. Sabine Hauert](https://hauertlab.com/sabine-hauert/) and [Dr. Elliott Scott](https://www.linkedin.com/in/elliott-scott-338742ab/)
   
