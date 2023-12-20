@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-View full CV [here](http://vedang-joshi.github.io/files/Vedang_Joshi_CV.pdf) (updated 14 October 2023).
+View full CV [here](http://vedang-joshi.github.io/files/Vedang_Joshi_CV.pdf) (updated 20 Dec 2023).
 
 Education
 ======
 * Doctor of Philosophy - Computational Engineering, [King's College London](https://www.kcl.ac.uk/), UK, 2023 - Present  
-Advisor: [Dr. Julia Li](https://www.kcl.ac.uk/people/juan-li)
+Advisors: [Dr. Julia Li](https://www.kcl.ac.uk/people/juan-li) and [Prof. David Moxey](https://davidmoxey.uk/)
 
 * MEng (Hons) - Engineering Mathematics, [University of Bristol](https://www.bristol.ac.uk/), UK, 2022  
   Dissertation: [A lateral line sensor based mechanistic algorithm for emergent fish schooling behaviours in multi-agent swarms](https://vedang-joshi.github.io/files/Vedang_Joshi_Dissertation.pdf)  
