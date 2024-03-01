@@ -25,10 +25,10 @@ Advisors: [Dr. Julia Li](https://www.kcl.ac.uk/people/juan-li) and [Prof. David 
 Industry experience
 ======
 * Sept 2022 - Present: Rotational Graduate Scheme at [Boeing](https://www.boeing.co.uk)
-  * Prosperity & Economic Data, UKDSC (Secondment), Farnborough, UK [Jan 2024 - Present]
-  * Strategic Experimentation & Analysis, Fleet, UK [Sept 2023 - Dec 2023]
-  * Research, Development & Engineering Strategy, Bristol, UK [March 2023 - Sept 2023]
-  * TLCS-2 Project Engineering, Gosport, UK [Sept 2022 - Feb 2023]
+  * Prosperity & Economic Data, UKDSC (Secondment), Farnborough, UK 
+  * Strategic Experimentation & Analysis, Fleet, UK 
+  * Research, Development & Engineering Strategy, Bristol, UK 
+  * TLCS-2 Project Engineering, Gosport, UK 
 
 Research experience
 ======
