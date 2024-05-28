@@ -10,7 +10,7 @@ redirect_from:
 
 ## About Me
 
-I'm an engineer at [Boeing UK](https://www.boeing.co.uk/boeing-in-the-uk.page) on the rotational graduate scheme, seconded into the Prosperity and Economic Data team within [UK Defence Solutions Centre](https://www.ukdsc.org/). I'm also a part-time PhD researcher in [Computational Engineering](https://www.kcl.ac.uk/research/computational-engineering) at [King's College London](https://www.kcl.ac.uk/), under the supervision of [Dr. Julia Li](https://www.kcl.ac.uk/people/juan-li) and [Prof. David Moxey](https://davidmoxey.uk/). I graduated from the [University of Bristol](https://www.bristol.ac.uk) with an MEng (Hons) in [Engineering Mathematics](https://www.bristol.ac.uk/study/undergraduate/2025/engineering-maths/meng-engineering-mathematics/) in 2022.
+I'm a graduate engineer within the Research, Development and Engineering Strategy group at [Boeing UK](https://www.boeing.co.uk/boeing-in-the-uk.page), seconded into the Prosperity and Economic Data team within [UK Defence Solutions Centre](https://www.ukdsc.org/). I'm also a part-time PhD researcher in [Computational Engineering](https://www.kcl.ac.uk/research/computational-engineering) at [King's College London](https://www.kcl.ac.uk/), under the supervision of [Dr. Julia Li](https://www.kcl.ac.uk/people/juan-li) and [Prof. David Moxey](https://davidmoxey.uk/). Previously, I graduated from the [University of Bristol](https://www.bristol.ac.uk) with an MEng (Hons) in [Engineering Mathematics](https://www.bristol.ac.uk/study/undergraduate/2025/engineering-maths/meng-engineering-mathematics/) in 2022.
 
 ## Research Interests
 
