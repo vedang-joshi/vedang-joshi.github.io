@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-View full CV [here](http://vedang-joshi.github.io/files/Vedang_Joshi_CV.pdf) (updated 19 Feb 2024).
+View full CV [here](http://vedang-joshi.github.io/files/Vedang_Joshi_CV.pdf) (updated 15 Oct 2024).
 
 Education
 ======
