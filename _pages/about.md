@@ -23,7 +23,7 @@ In the summer of 2021, I worked on epidemic spread for the Citrus Huanglongbing 
 
 ## Other stuff
 
-~In my spare time~, if I have any spare time , I enjoy reading crime fiction and medical thrillers. I love travelling and meeting new people and have travelled across Europe, through South East Asia and North America. I'm a Silver and Gold [Duke of Edinburgh Award](https://www.dofe.org/about/) holder and have hiked extensively in the Western Ghats, India; Dartmoor, Devon; Brecon Beacons, Wales and in the Lake District, Northern England. I'm currently an [Ocean Diver](https://www.bsac.com/training/learn-to-scuba-dive/ocean-diver-course/#tab-1) at the [Holborn Sub-Aqua Club](https://www.holbornscubalondon.co.uk/).
+~In my spare time~, If I have any spare time , I enjoy reading crime fiction and medical thrillers. I love travelling and meeting new people and have travelled across Europe, through South East Asia and North America. I'm a Silver and Gold [Duke of Edinburgh Award](https://www.dofe.org/about/) holder and have hiked extensively in the Western Ghats, India; Dartmoor, Devon; Brecon Beacons, Wales and in the Lake District, Northern England. I'm currently an [Ocean Diver](https://www.bsac.com/training/learn-to-scuba-dive/ocean-diver-course/#tab-1) at the [Holborn Sub-Aqua Club](https://www.holbornscubalondon.co.uk/).
 
 
 
