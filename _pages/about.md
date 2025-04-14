@@ -10,7 +10,7 @@ redirect_from:
 
 ## About Me
 
-I'm a software engineer at [Boeing UK](https://www.boeing.co.uk) alongside working towards a part-time PhD in [Computational Engineering](https://www.kcl.ac.uk/people/vedang-joshi) at [King's College London](https://www.kcl.ac.uk/), under the supervision of [Dr. Julia Li](https://www.kcl.ac.uk/people/juan-li) and [Prof. David Moxey](https://davidmoxey.uk/). Previously, I graduated from the [University of Bristol](https://www.bristol.ac.uk) with an MEng (Hons) in [Engineering Mathematics](https://www.bristol.ac.uk/study/undergraduate/2025/engineering-maths/meng-engineering-mathematics/) in 2022.
+I'm a software engineer at [Boeing UK](https://www.boeing.co.uk) alongside working towards a part-time PhD in [Computational Engineering](https://www.kcl.ac.uk/people/vedang-joshi) at [King's College London](https://www.kcl.ac.uk/), under the supervision of [Dr. Julia Li](https://www.kcl.ac.uk/people/juan-li) and [Prof. David Moxey](https://davidmoxey.uk/). Prior to this, I graduated from the [University of Bristol](https://www.bristol.ac.uk) with an MEng (Hons) in [Engineering Mathematics](https://www.bristol.ac.uk/study/undergraduate/2025/engineering-maths/meng-engineering-mathematics/) in 2022.
 
 ## Research Interests
 
