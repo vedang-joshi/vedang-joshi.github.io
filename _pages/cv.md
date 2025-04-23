@@ -25,7 +25,7 @@ Industry experience
 ======
 * Sept 2024 - Present: Software Engineer II at [Boeing](https://www.boeing.co.uk)
 * Sept 2022 - Sept 2024: Rotational Graduate Scheme at [Boeing](https://www.boeing.co.uk)
-  * Market Intelligence, Prosperity & Economic Data, UKDSC (Secondment), Farnborough, UK 
+  * Market Intelligence Lead, Prosperity & Economic Data Engineer, UKDSC (Secondment), Farnborough, UK 
   * Strategic Experimentation & Analysis, Fleet, UK 
   * Research, Development & Engineering Strategy, Bristol, UK 
   * TLCS-2 Project Engineering, Gosport, UK 
