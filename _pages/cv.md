@@ -21,7 +21,7 @@ Advisors: [Dr. Julia Li](https://www.kcl.ac.uk/people/juan-li) and [Prof. David 
   
 * A-Levels in Mathematics, Further Mathematics, French and Physics, [Royal Wootton Bassett Academy Sixth Form](https://www.rwba.org.uk/sixth-form), UK, 2018
 
-* 10 GCSEs A*-A, [Royal Wootton Bassett Academy](https://www.rwba.org.uk), UK, 2016
+* 10 GCSEs (A*-A), [Royal Wootton Bassett Academy](https://www.rwba.org.uk), UK, 2016
 
 Industry experience
 ======
