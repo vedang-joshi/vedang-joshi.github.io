@@ -19,7 +19,9 @@ Advisors: [Dr. Julia Li](https://www.kcl.ac.uk/people/juan-li) and [Prof. David 
 * MEng (Hons) - Engineering Mathematics, [University of Bristol](https://www.bristol.ac.uk/), UK, 2022  
   Advisors: [Prof. Sabine Hauert](https://hauertlab.com/sabine-hauert/) and [Dr. Elliott Scott](https://www.linkedin.com/in/elliott-scott-338742ab/)
   
-* A-Levels in Mathematics, Further Mathematics, French and Physics, [Royal Wootton Bassett Academy Sixth Form](https://www.rwba.org.uk/sixthform/), UK, 2018
+* A-Levels in Mathematics, Further Mathematics, French and Physics, [Royal Wootton Bassett Academy Sixth Form](https://www.rwba.org.uk/sixth-form), UK, 2018
+
+* 10 GCSEs A*-A, [Royal Wootton Bassett Academy](https://www.rwba.org.uk), UK, 2016
 
 Industry experience
 ======
