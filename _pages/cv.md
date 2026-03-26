@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-View full CV [here](http://vedang-joshi.github.io/files/Vedang_Joshi_CV.pdf) (updated 23 April 2025).
+View full CV [here](http://vedang-joshi.github.io/files/Vedang_Joshi_CV.pdf) (updated 26 March 2026).
 
 Education
 ======
@@ -17,7 +17,7 @@ Education
 Advisors: [Dr. Julia Li](https://www.kcl.ac.uk/people/juan-li) and [Prof. David Moxey](https://davidmoxey.uk/)
 
 * MEng (Hons) - Engineering Mathematics, [University of Bristol](https://www.bristol.ac.uk/), UK, 2022  
-  Advisors: [Prof. Sabine Hauert](https://hauertlab.com/sabine-hauert/) and [Dr. Elliott Scott](https://www.linkedin.com/in/elliott-scott-338742ab/)
+  Advisors: [Prof. Sabine Hauert, OBE](https://hauertlab.com/sabine-hauert/)
   
 * A-Levels in Mathematics, Further Mathematics, French and Physics, [Royal Wootton Bassett Academy Sixth Form](https://www.rwba.org.uk/sixth-form), UK, 2018
 
@@ -25,7 +25,7 @@ Advisors: [Dr. Julia Li](https://www.kcl.ac.uk/people/juan-li) and [Prof. David 
 
 Industry experience
 ======
-* Sept 2024 - Present: Software Engineer II at [Boeing](https://www.boeing.co.uk)
+* Sept 2024 - Present: Software Systems Engineer at [Boeing](https://www.boeing.co.uk)
 * Sept 2022 - Sept 2024: Rotational Graduate Scheme at [Boeing](https://www.boeing.co.uk)
   * Market Intelligence Lead, Prosperity & Economic Data Engineer, UKDSC (Secondment), Farnborough, UK 
   * Strategic Experimentation & Analysis, Fleet, UK 
